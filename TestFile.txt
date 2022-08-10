@@ -1,1 +1,2 @@
 This is my practice file
+Updated at github to practice fetch command 
